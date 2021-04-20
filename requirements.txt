@@ -1,0 +1,8 @@
+pandas
+python-dateutil
+mplfinance
+requests
+bs4
+numpy
+tqdm
+lxml
