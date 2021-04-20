@@ -1,0 +1,11 @@
+StockName,Decision,Buy At/Sell At,Stop Loss,Open,High,Low,CURR,LiveURL
+HDFC,SELL,2415.9,nan,2542.15,2544.0,2406.2,2415.9,https://www.moneycontrol.com/india/stockpricequote/financehousing/housingdevelopmentfinancecorporation/HDF
+HCL Tech,SELL,961.3,nan,1006.0,1006.0,957.0,961.3,https://www.moneycontrol.com/india/stockpricequote/computerssoftware/hcltechnologies/HCL02
+Wipro,SELL,470.1,nan,476.0,477.55,467.8,470.1,https://www.moneycontrol.com/india/stockpricequote/computerssoftware/wipro/W
+Amber Enterpris,BUY,3178.95,3094.0,3094.0,3190.0,3081.35,3178.95,https://www.moneycontrol.com/india/stockpricequote/miscellaneous/amberenterprisesindialimited/AEI01
+Varroc Engineer,SELL,342.5,nan,349.7,349.7,341.0,342.5,https://www.moneycontrol.com/india/stockpricequote/engineeringheavy/varrocengineering/VE08
+Rane Engine,SELL,254.25,nan,263.35,263.35,253.05,254.25,https://www.moneycontrol.com/india/stockpricequote/autoancillaries/raneenginevalves/REV
+Autolite India,SELL,25.2,nan,26.5,26.5,25.2,25.2,https://www.moneycontrol.com/india/stockpricequote/autoancillaries/autoliteindia/AI31
+Federal-Mogul,SELL,295.35,nan,308.0,308.0,294.9,295.35,https://www.moneycontrol.com/india/stockpricequote/autoancillaries/federalmogulgoetze/FMG
+Auto Stampings,BUY,32.15,30.65,30.65,32.15,30.65,32.15,https://www.moneycontrol.com/india/stockpricequote/autoancillaries/automotivestampingsassemblies/ASA01
+Yes Bank,SELL,14.05,nan,14.3,14.35,14.0,14.05,https://www.moneycontrol.com/india/stockpricequote/banksprivatesector/yesbank/YB
